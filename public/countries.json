@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Kazakhstan",
+      "capital": "Astana",
+      "population": 19000000,
+      "continent": "Asia"
+    },
+    {
+      "id": 2,
+      "name": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331000000,
+      "continent": "North America"
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "capital": "Brasília",
+      "population": 213000000,
+      "continent": "South America"
+    },
+    {
+      "id": 4,
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": 83000000,
+      "continent": "Europe"
+    },
+    {
+      "id": 5,
+      "name": "Japan",
+      "capital": "Tokyo",
+      "population": 125000000,
+      "continent": "Asia"
+    },
+    {
+      "id": 6,
+      "name": "South Africa",
+      "capital": "Pretoria",
+      "population": 60000000,
+      "continent": "Africa"
+    },
+    {
+      "id": 7,
+      "name": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "continent": "Oceania"
+    }
+  ]
+  

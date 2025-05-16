@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "age": 36,
+      "nationality": "Argentina",
+      "club": "Inter Miami"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "age": 39,
+      "nationality": "Portugal",
+      "club": "Al-Nassr"
+    },
+    {
+      "id": 3,
+      "name": "Kylian Mbappé",
+      "age": 25,
+      "nationality": "France",
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "id": 4,
+      "name": "Erling Haaland",
+      "age": 23,
+      "nationality": "Norway",
+      "club": "Manchester City"
+    },
+    {
+      "id": 5,
+      "name": "Kevin De Bruyne",
+      "age": 32,
+      "nationality": "Belgium",
+      "club": "Manchester City"
+    },
+    {
+      "id": 6,
+      "name": "Mohamed Salah",
+      "age": 31,
+      "nationality": "Egypt",
+      "club": "Liverpool"
+    },
+    {
+      "id": 7,
+      "name": "Neymar Jr.",
+      "age": 32,
+      "nationality": "Brazil",
+      "club": "Al Hilal"
+    }
+  ]
+  
